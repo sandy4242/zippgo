@@ -41,9 +41,11 @@ export default function Hero() {
           </div>
 
           {/* CTA Button */}
+          <a href="/buyer/register">
           <button className="bg-white text-blue-600 px-8 py-4 rounded-lg font-semibold text-lg hover:bg-blue-50 transition-all transform hover:scale-105 shadow-xl">
             Explore Now
           </button>
+          </a>
         </div>
       </div>
 
