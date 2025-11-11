@@ -61,7 +61,7 @@ export default function BuyerLayout({
           <div className="flex items-center justify-between h-16">
             {/* Logo */}
             <Link href="/buyer/dashboard" className="flex items-center">
-              <span className="text-2xl font-bold text-blue-600">QuickMart</span>
+              <span className="text-2xl font-bold text-blue-600">ZippGO</span>
             </Link>
 
             {/* Desktop Navigation */}

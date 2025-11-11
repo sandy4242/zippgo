@@ -77,7 +77,7 @@ export default function SellerLayout({
             {/* Logo for mobile */}
             <div className="lg:hidden flex items-center">
               <Store className="w-6 h-6 text-blue-600 mr-2" />
-              <span className="text-xl font-bold text-blue-600">QuickMart</span>
+              <span className="text-xl font-bold text-blue-600">ZippGO</span>
             </div>
 
             {/* Right side items */}
@@ -132,7 +132,7 @@ export default function SellerLayout({
         <div className="flex items-center justify-between p-6 border-b">
           <div className="flex items-center">
             <Store className="w-8 h-8 text-blue-600 mr-3" />
-            <span className="text-2xl font-bold text-blue-600">QuickMart</span>
+            <span className="text-2xl font-bold text-blue-600">ZippGO</span>
           </div>
           <button
             onClick={() => setSidebarOpen(false)}
